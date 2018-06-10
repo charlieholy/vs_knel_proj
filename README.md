@@ -1,3 +1,5 @@
-insmod hello.ko
-dmesg
-rmmod hello
+## VsProj  kernel 
+### 驱动示例
+## insmod hello.ko
+## dmesg
+## rmmod hello
