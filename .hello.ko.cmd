@@ -1,0 +1,1 @@
+cmd_/home/charlie/source/vs_knel_proj/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/charlie/source/vs_knel_proj/hello.ko /home/charlie/source/vs_knel_proj/hello.o /home/charlie/source/vs_knel_proj/hello.mod.o
